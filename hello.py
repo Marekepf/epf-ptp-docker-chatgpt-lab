@@ -23,3 +23,4 @@ def chatgpt():
     return completion['choices'][0]['message']['content']
 
 
+ 
